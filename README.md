@@ -14,10 +14,10 @@ This project is a simple Kanban board for task management. It allows users to ad
 
 ## Screenshots
 
-![Task Board](assets/screenshots/mainpage.png)
-![Adding Taks](assets/screenshots/addingtask.png)
-![Added Task to TO DO](assets/screenshots/addedtask.png)
-![Drag and Drop](assets/screenshots/dragged.png)
+![Task Board](/assets/screenshots/mainpage.png)
+![Adding Taks](/assets/screenshots/addingtask.png)
+![Added Task to TO DO](/assets/screenshots/addedtask.png)
+![Drag and Drop](/assets/screenshots/dragged.png)
 
 ## How to Use
 
